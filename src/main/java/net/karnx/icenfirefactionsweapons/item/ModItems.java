@@ -2,6 +2,7 @@ package net.karnx.icenfirefactionsweapons.item;
 
 import net.karnx.icenfirefactionsweapons.IceNFireFactionsWeapons;
 
+import net.karnx.icenfirefactionsweapons.item.factitems.AnnihilatorRay;
 import net.karnx.icenfirefactionsweapons.item.factitems.CommanderStaff;
 import net.karnx.icenfirefactionsweapons.item.factitems.DragonslayerSword;
 import net.karnx.icenfirefactionsweapons.item.factitems.SanctumKey;
@@ -25,6 +26,7 @@ public class ModItems {
 
     public static final RegistryObject<Item> ANCIENT_HORN = ITEMS.register("ancient_horn", () -> new Item(new Item.Properties().stacksTo(2)));
 
+    public static final RegistryObject<Item> ANNIHILATOR_RAY = ITEMS.register("annihilator_ray", AnnihilatorRay::new);
 
     public static final RegistryObject<Item> VAULT_KEY = ITEMS.register("ancient_key", () -> new SanctumKey(new Item.Properties().stacksTo(1)));
 

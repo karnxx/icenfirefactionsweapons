@@ -50,6 +50,8 @@ public class ModItemModelProvider extends ItemModelProvider {
 
         simpleItem(ModItems.ANCIENTITE);
 
+        simpleItem(ModItems.VAULT_KEY);
+
 
         trimmedArmorItem(ModItems.ANCIENTITE_HELMET);
         trimmedArmorItem(ModItems.ANCIENTITE_CHESTPLATE);

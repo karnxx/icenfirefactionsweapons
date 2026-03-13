@@ -1,3 +1,4 @@
-// 1.20.1	2026-03-10T18:11:28.6192261	Loot Tables
+// 1.20.1	2026-03-13T17:07:18.4797184	Loot Tables
 bc6d30ffad870b3d51f1df97f285092ddc5d0f2b data/icenfirefactionsweapons/loot_tables/blocks/ancientite_block.json
 28111f1ffb7633c2ab2c6fd119396c5ba607cb56 data/icenfirefactionsweapons/loot_tables/blocks/ancientite_ore.json
+fac5a5e148cc9ab3009aba43b733ee5924ef43cc data/icenfirefactionsweapons/loot_tables/blocks/ancient_vault.json

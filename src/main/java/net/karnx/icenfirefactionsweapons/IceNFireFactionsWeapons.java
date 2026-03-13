@@ -3,6 +3,7 @@ package net.karnx.icenfirefactionsweapons;
 import com.mojang.logging.LogUtils;
 import net.karnx.icenfirefactionsweapons.block.ModBlocks;
 import net.karnx.icenfirefactionsweapons.item.ModItems;
+import net.karnx.icenfirefactionsweapons.item.factitems.AnnihilatorRayHandler;
 import net.karnx.icenfirefactionsweapons.util.AncientBossHandler;
 import net.minecraft.client.Minecraft;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -34,6 +35,7 @@ public class IceNFireFactionsWeapons
         ModBlocks.register(modEventBus);
         modEventBus.addListener(this::commonSetup);
         MinecraftForge.EVENT_BUS.register(new AncientBossHandler());
+        MinecraftForge.EVENT_BUS.register(new AnnihilatorRayHandler());
         MinecraftForge.EVENT_BUS.register(this);
 
         modEventBus.addListener(this::addCreative);
@@ -55,6 +57,8 @@ public class IceNFireFactionsWeapons
             event.accept(ModItems.ANCIENT_EYE);
             event.accept(ModItems.ANCIENT_SCALE);
             event.accept(ModItems.ANCIENT_HORN);
+
+
         } else if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.ANCIENTITE_BLOCK);
             event.accept(ModBlocks.ANCIENT_VAULT);
@@ -89,6 +93,7 @@ public class IceNFireFactionsWeapons
             event.accept(ModItems.DRAGONSLAYER_BLADE);
             event.accept(ModItems.COMMANDER_STAFF);
             event.accept(ModItems.VAULT_KEY);
+            event.accept(ModItems.ANNIHILATOR_RAY);
 
 
         }else if(event.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS) {

@@ -9,7 +9,11 @@
   "block.icenfirefactionsweapons.ancientite_ore" : "Ancientite Ore",
 
   "item.icenfirefactionsweapons.dragonslayer_blade": "The Dragonslayer",
+  "item.icenfirefactionsweapons.commander_staff": "Commander's Staff",
+  "item.icenfirefactionsweapons.ancient_key": "Ancient Key",
+  "item.icenfirefactionsweapons.ancient_vault": "Ancient Vault",
 
+  "item.icenfirefactionsweapons.annihilator_ray": "Annihilator Ray",
 
   "item.icenfirefactionsweapons.ancientite_helmet": "Ancientite Helmet",
   "item.icenfirefactionsweapons.ancientite_chestplate": "Ancientite Chestplate",

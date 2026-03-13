@@ -1,7 +1,10 @@
-// 1.20.1	2026-03-10T20:57:39.7161859	Block States: icenfirefactionsweapons
+// 1.20.1	2026-03-13T17:07:18.4857014	Block States: icenfirefactionsweapons
 4994f2d3a5926f7e12e14552f70fccdd32b8b304 assets/icenfirefactionsweapons/blockstates/ancientite_block.json
 acb7ef1f9d20ee0b5da93a1999f46dbf32b94173 assets/icenfirefactionsweapons/blockstates/ancientite_ore.json
+f9c87fcb60436ec52c9996ade3050bbaf6898395 assets/icenfirefactionsweapons/blockstates/ancient_vault.json
 21e87375d739ef07aa01d96fb1eb423672a3e269 assets/icenfirefactionsweapons/models/block/ancientite_block.json
 58417db60a7511b49b228d17c0a403ec3968bc5e assets/icenfirefactionsweapons/models/block/ancientite_ore.json
+b7e20a152581160393f71909cb6243f72653abd2 assets/icenfirefactionsweapons/models/block/ancient_vault.json
 590b2a577dbbdc241b86ead8eeb6f993ba718ed7 assets/icenfirefactionsweapons/models/item/ancientite_block.json
 368c45a6161a6307da92e1129fa6540ddb68d8d3 assets/icenfirefactionsweapons/models/item/ancientite_ore.json
+55ce5c1a747b0b566088cfb37b5431ee0cfc2097 assets/icenfirefactionsweapons/models/item/ancient_vault.json

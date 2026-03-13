@@ -1,4 +1,4 @@
-// 1.20.1	2026-03-12T17:45:50.3013956	Item Models: icenfirefactionsweapons
+// 1.20.1	2026-03-13T17:07:18.465224	Item Models: icenfirefactionsweapons
 c12c40ece263a98f8309e9229ce1efb53cab3be1 assets/icenfirefactionsweapons/models/item/ancientite.json
 c5dd8a9596b7d646b426a032daf05dd77f2014d4 assets/icenfirefactionsweapons/models/item/ancientite_accord_boots.json
 c86a42162d20a984571b18b719b27ababccd8c28 assets/icenfirefactionsweapons/models/item/ancientite_accord_boots_amethyst_trim.json
@@ -224,5 +224,5 @@ f7c445206fe571ba680f21d7f17890b562a0b001 assets/icenfirefactionsweapons/models/i
 e6f9ae61af6adad94cecbc61d990e4a568dbb5e1 assets/icenfirefactionsweapons/models/item/ancient_eye.json
 13263e1a06aea7a9a634184bcda238662ab17bce assets/icenfirefactionsweapons/models/item/ancient_fang.json
 00e950048dd255801b00898323f4a05df7fae4d8 assets/icenfirefactionsweapons/models/item/ancient_horn.json
+f74a11e0f9ffc3e4d8de965df0e80e4c7cad4159 assets/icenfirefactionsweapons/models/item/ancient_key.json
 e7faaee9550d9c56a25eb39b0a44c454fcd9cad9 assets/icenfirefactionsweapons/models/item/ancient_scale.json
-48c144b41e828eb21454133acd71c82d23d7f92a assets/icenfirefactionsweapons/models/item/commander_staff.json

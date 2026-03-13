@@ -33,6 +33,7 @@ public class ModBlockLootTables extends BlockLootSubProvider {
 
         this.add(ModBlocks.ANCIENTITE_ORE.get(), block -> createcustomoredrops(ModBlocks.ANCIENTITE_ORE.get(), ModItems.ANCIENTITE.get(), 1.0f, 2.0f));
         this.add(ModBlocks.ANCIENTITE_BLOCK.get(), block -> createcustomoredrops(ModBlocks.ANCIENTITE_ORE.get(), ModItems.ANCIENTITE.get(), 1.0f, 10.0f));
+        this.add(ModBlocks.ANCIENT_VAULT.get(), block -> createcustomoredrops(ModBlocks.ANCIENTITE_ORE.get(), ModItems.ANCIENTITE.get(), 1.0f, 10.0f));
     }
 
     @Override
