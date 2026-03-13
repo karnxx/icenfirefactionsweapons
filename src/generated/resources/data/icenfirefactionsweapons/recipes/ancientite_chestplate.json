@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "s": {
+      "item": "icenfirefactionsweapons:ancientite"
+    }
+  },
+  "pattern": [
+    "s s",
+    "sss",
+    "sss"
+  ],
+  "result": {
+    "item": "icenfirefactionsweapons:ancientite_chestplate"
+  },
+  "show_notification": true
+}

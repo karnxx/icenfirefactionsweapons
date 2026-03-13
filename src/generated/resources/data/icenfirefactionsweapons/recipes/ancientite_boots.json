@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "s": {
+      "item": "icenfirefactionsweapons:ancientite"
+    }
+  },
+  "pattern": [
+    "   ",
+    "s s",
+    "s s"
+  ],
+  "result": {
+    "item": "icenfirefactionsweapons:ancientite_boots"
+  },
+  "show_notification": true
+}

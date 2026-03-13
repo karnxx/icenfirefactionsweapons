@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "f": {
+      "item": "icenfirefactionsweapons:ancient_bone"
+    },
+    "s": {
+      "item": "icenfirefactionsweapons:ancientite"
+    }
+  },
+  "pattern": [
+    "sss",
+    "sfs",
+    "fff"
+  ],
+  "result": {
+    "item": "icenfirefactionsweapons:ancientite_sanctum_leggings"
+  },
+  "show_notification": true
+}

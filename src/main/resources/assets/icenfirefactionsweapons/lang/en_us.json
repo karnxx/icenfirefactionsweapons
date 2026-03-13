@@ -1,7 +1,38 @@
 {
-  "item.icenfirefactionsweapons.ancientine" : "Ancientine",
+  "item.icenfirefactionsweapons.ancientite" : "Ancientine",
   "item.icenfirefactionsweapons.ancient_fang" : "Ancient Fang",
   "item.icenfirefactionsweapons.ancient_eye" : "Ancient Eye",
   "item.icenfirefactionsweapons.ancient_scale" : "Ancient Scale",
-  "item.icenfirefactionsweapons.ancient_bone" : "Ancient Bone"
+  "item.icenfirefactionsweapons.ancient_bone" : "Ancient Bone",
+  "item.icenfirefactionsweapons.ancient_horn" : "Ancient Horn",
+  "block.icenfirefactionsweapons.ancientite_block" : "Ancientite Block",
+  "block.icenfirefactionsweapons.ancientite_ore" : "Ancientite Ore",
+
+  "item.icenfirefactionsweapons.dragonslayer_blade": "The Dragonslayer",
+
+
+  "item.icenfirefactionsweapons.ancientite_helmet": "Ancientite Helmet",
+  "item.icenfirefactionsweapons.ancientite_chestplate": "Ancientite Chestplate",
+  "item.icenfirefactionsweapons.ancientite_leggings": "Ancientite Leggings",
+  "item.icenfirefactionsweapons.ancientite_boots": "Ancientite Boots",
+
+  "item.icenfirefactionsweapons.ancientite_slayer_helmet": "Ancientite Slayer Helmet",
+  "item.icenfirefactionsweapons.ancientite_slayer_chestplate": "Ancientite Slayer Chestplate",
+  "item.icenfirefactionsweapons.ancientite_slayer_leggings": "Ancientite Slayer Leggings",
+  "item.icenfirefactionsweapons.ancientite_slayer_boots": "Ancientite Slayer Boots",
+
+  "item.icenfirefactionsweapons.ancientite_tamer_helmet": "Ancientite Tamer Helmet",
+  "item.icenfirefactionsweapons.ancientite_tamer_chestplate": "Ancientite Tamer Chestplate",
+  "item.icenfirefactionsweapons.ancientite_tamer_leggings": "Ancientite Tamer Leggings",
+  "item.icenfirefactionsweapons.ancientite_tamer_boots": "Ancientite Tamer Boots",
+
+  "item.icenfirefactionsweapons.ancientite_sanctum_helmet": "Ancientite Sanctum Helmet",
+  "item.icenfirefactionsweapons.ancientite_sanctum_chestplate": "Ancientite Sanctum Chestplate",
+  "item.icenfirefactionsweapons.ancientite_sanctum_leggings": "Ancientite Sanctum Leggings",
+  "item.icenfirefactionsweapons.ancientite_sanctum_boots": "Ancientite Sanctum Boots",
+
+  "item.icenfirefactionsweapons.ancientite_accord_helmet": "Ancientite Accord Helmet",
+  "item.icenfirefactionsweapons.ancientite_accord_chestplate": "Ancientite Accord Chestplate",
+  "item.icenfirefactionsweapons.ancientite_accord_leggings": "Ancientite Accord Leggings",
+  "item.icenfirefactionsweapons.ancientite_accord_boots": "Ancientite Accord Boots"
 }

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "f": {
+      "item": "icenfirefactionsweapons:ancient_scale"
+    },
+    "s": {
+      "item": "icenfirefactionsweapons:ancientite"
+    }
+  },
+  "pattern": [
+    "sss",
+    "sfs",
+    "fff"
+  ],
+  "result": {
+    "item": "icenfirefactionsweapons:ancientite_tamer_leggings"
+  },
+  "show_notification": true
+}

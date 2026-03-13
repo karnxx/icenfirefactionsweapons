@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "f": {
+      "item": "icenfirefactionsweapons:ancient_scale"
+    },
+    "s": {
+      "item": "icenfirefactionsweapons:ancientite"
+    }
+  },
+  "pattern": [
+    "f f",
+    "sss",
+    "sfs"
+  ],
+  "result": {
+    "item": "icenfirefactionsweapons:ancientite_tamer_chestplate"
+  },
+  "show_notification": true
+}
