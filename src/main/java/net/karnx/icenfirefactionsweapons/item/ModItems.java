@@ -2,10 +2,7 @@ package net.karnx.icenfirefactionsweapons.item;
 
 import net.karnx.icenfirefactionsweapons.IceNFireFactionsWeapons;
 
-import net.karnx.icenfirefactionsweapons.item.factitems.AnnihilatorRay;
-import net.karnx.icenfirefactionsweapons.item.factitems.CommanderStaff;
-import net.karnx.icenfirefactionsweapons.item.factitems.DragonslayerSword;
-import net.karnx.icenfirefactionsweapons.item.factitems.SanctumKey;
+import net.karnx.icenfirefactionsweapons.item.factitems.*;
 import net.minecraft.world.item.ArmorItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.Tiers;
@@ -33,6 +30,9 @@ public class ModItems {
     public static final RegistryObject<Item> DRAGONSLAYER_BLADE = ITEMS.register("dragonslayer_blade", () -> new DragonslayerSword(Tiers.NETHERITE, 10, -2.4f, new Item.Properties().stacksTo(1)));
 
     public static final RegistryObject<Item> COMMANDER_STAFF = ITEMS.register("commander_staff", () -> new CommanderStaff(new Item.Properties().stacksTo(1)));
+
+    public static final RegistryObject<Item> ANCIENT_STAFF = ITEMS.register("ancient_staff", AncientStaff::new);
+
 
     public static final RegistryObject<Item> ANCIENTITE_HELMET =ITEMS.register("ancientite_helmet",
             () -> new ModArmorItem(ModArmorMaterials.ANCIENTITE, ModArmorItem.Type.HELMET, new Item.Properties()));

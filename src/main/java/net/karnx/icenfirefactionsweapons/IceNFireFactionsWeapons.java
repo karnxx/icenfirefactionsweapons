@@ -3,6 +3,8 @@ package net.karnx.icenfirefactionsweapons;
 import com.mojang.logging.LogUtils;
 import net.karnx.icenfirefactionsweapons.block.ModBlocks;
 import net.karnx.icenfirefactionsweapons.item.ModItems;
+import net.karnx.icenfirefactionsweapons.item.factitems.AncientStaff;
+import net.karnx.icenfirefactionsweapons.item.factitems.AncientStaffHandler;
 import net.karnx.icenfirefactionsweapons.item.factitems.AnnihilatorRayHandler;
 import net.karnx.icenfirefactionsweapons.util.AncientBossHandler;
 import net.minecraft.client.Minecraft;
@@ -36,6 +38,7 @@ public class IceNFireFactionsWeapons
         modEventBus.addListener(this::commonSetup);
         MinecraftForge.EVENT_BUS.register(new AncientBossHandler());
         MinecraftForge.EVENT_BUS.register(new AnnihilatorRayHandler());
+        MinecraftForge.EVENT_BUS.register(new AncientStaffHandler());
         MinecraftForge.EVENT_BUS.register(this);
 
         modEventBus.addListener(this::addCreative);
@@ -94,6 +97,7 @@ public class IceNFireFactionsWeapons
             event.accept(ModItems.COMMANDER_STAFF);
             event.accept(ModItems.VAULT_KEY);
             event.accept(ModItems.ANNIHILATOR_RAY);
+            event.accept(ModItems.ANCIENT_STAFF);
 
 
         }else if(event.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS) {
