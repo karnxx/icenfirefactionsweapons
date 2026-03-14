@@ -1,7 +1,7 @@
 {
 	"textures": {
 		"staff_golden_crook": "icenfirefactionsweapons:item/ancient_staff",
-		"charging": "icenfirefactionsweapons:item/staff_effects/staff_effect_charging",
+		"charging": "icenfirefactionsweapons:item/staff_effects/staff_effect_charging"
 	},
 	"elements": [
 		{
@@ -231,24 +231,6 @@
 				"south": { "uv": [ 9.75, 2.5, 10.25, 3 ], "texture": "#staff_golden_crook" },
 				"west": { "uv": [ 9.75, 2.5, 10, 3 ], "texture": "#staff_golden_crook" },
 				"east": { "uv": [ 10.25, 3, 10, 2.5 ], "texture": "#staff_golden_crook", "rotation": 180 }
-			}
-		},
-		{
-			"name": "PlaneX20_a",
-			"from": [ 8, 9.125, 4.625 ],
-			"to": [ 8.001, 16.375, 11.875 ],
-			"faces": {
-				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#charging" },
-				"east": { "uv": [ 16, 0, 0, 16 ], "texture": "#charging" }
-			}
-		},
-		{
-			"name": "PlaneX20_b",
-			"from": [ 4.25, 9.125, 8.25 ],
-			"to": [ 11.5, 16.375, 8.251 ],
-			"faces": {
-				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#charging" },
-				"south": { "uv": [ 16, 0, 0, 16 ], "texture": "#charging" }
 			}
 		}
 	],
