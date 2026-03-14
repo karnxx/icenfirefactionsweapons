@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "e": {
+      "item": "iceandfire:dragonbone"
+    },
+    "t": {
+      "item": "iceandfire:witherbone"
+    },
+    "u": {
+      "item": "icenfirefactionsweapons:ancient_scale"
+    },
+    "y": {
+      "item": "iceandfire:dragon_skull_fire"
+    }
+  },
+  "pattern": [
+    " y ",
+    "utu",
+    "ete"
+  ],
+  "result": {
+    "item": "icenfirefactionsweapons:commander_staff"
+  },
+  "show_notification": true
+}

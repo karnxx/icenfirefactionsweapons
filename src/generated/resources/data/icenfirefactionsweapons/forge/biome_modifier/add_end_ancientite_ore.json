@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_end",
+  "features": "icenfirefactionsweapons:end_ancientite_ore_placed",
+  "step": "underground_ores"
+}

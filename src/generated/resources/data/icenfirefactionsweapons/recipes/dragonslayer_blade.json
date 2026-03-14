@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "e": {
+      "item": "minecraft:bone_block"
+    },
+    "f": {
+      "item": "iceandfire:witherbone"
+    },
+    "t": {
+      "item": "minecraft:obsidian"
+    },
+    "y": {
+      "item": "icenfirefactionsweapons:ancient_fang"
+    }
+  },
+  "pattern": [
+    " y ",
+    "fyf",
+    "ete"
+  ],
+  "result": {
+    "item": "icenfirefactionsweapons:dragonslayer_blade"
+  },
+  "show_notification": true
+}

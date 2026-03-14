@@ -1,0 +1,4 @@
+// 1.20.1	2026-03-13T21:15:34.0561112	Registries
+2ce08d9f32cb68cf4067b2b398cb903789515198 data/icenfirefactionsweapons/forge/biome_modifier/add_end_ancientite_ore.json
+2a69f4f4e9b6cfd9b1a8028cd0d18379935bd0e4 data/icenfirefactionsweapons/worldgen/configured_feature/end_ore_dep.json
+ef44b70f304b9478c304563e3a2df742679e4a7f data/icenfirefactionsweapons/worldgen/placed_feature/end_ancientite_ore_placed.json

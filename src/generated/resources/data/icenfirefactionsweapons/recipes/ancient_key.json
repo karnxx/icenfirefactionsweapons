@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "b": {
+      "item": "icenfirefactionsweapons:ancient_bone"
+    },
+    "w": {
+      "item": "iceandfire:dragon_skull_lightning"
+    }
+  },
+  "pattern": [
+    " bb",
+    " bb",
+    "w  "
+  ],
+  "result": {
+    "item": "icenfirefactionsweapons:ancient_key"
+  },
+  "show_notification": true
+}

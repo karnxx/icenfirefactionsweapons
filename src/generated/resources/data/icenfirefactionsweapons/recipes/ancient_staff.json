@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "e": {
+      "item": "icenfirefactionsweapons:ancient_eye"
+    },
+    "f": {
+      "item": "icenfirefactionsweapons:ancient_bone"
+    },
+    "s": {
+      "item": "icenfirefactionsweapons:ancientite_block"
+    },
+    "t": {
+      "item": "icenfirefactionsweapons:ancient_horn"
+    },
+    "u": {
+      "item": "icenfirefactionsweapons:ancient_scale"
+    },
+    "y": {
+      "item": "icenfirefactionsweapons:ancient_fang"
+    }
+  },
+  "pattern": [
+    "eet",
+    "ufy",
+    "suy"
+  ],
+  "result": {
+    "item": "icenfirefactionsweapons:ancient_staff"
+  },
+  "show_notification": true
+}

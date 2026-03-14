@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "b": {
+      "item": "iceandfire:ice_dragon_heart"
+    },
+    "d": {
+      "item": "iceandfire:fire_dragon_heart"
+    },
+    "w": {
+      "item": "icenfirefactionsweapons:ancient_eye"
+    },
+    "z": {
+      "item": "iceandfire:cockatrice_eye"
+    }
+  },
+  "pattern": [
+    " zd",
+    "zbz",
+    "wz "
+  ],
+  "result": {
+    "item": "icenfirefactionsweapons:annihilator_ray"
+  },
+  "show_notification": true
+}
